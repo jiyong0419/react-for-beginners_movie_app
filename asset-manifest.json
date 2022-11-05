@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-for-beginners_movie_app/static/js/main.d52913f6.js",
+    "main.js": "/react-for-beginners_movie_app/static/js/main.c4fdd54e.js",
     "index.html": "/react-for-beginners_movie_app/index.html",
-    "main.d52913f6.js.map": "/react-for-beginners_movie_app/static/js/main.d52913f6.js.map"
+    "main.c4fdd54e.js.map": "/react-for-beginners_movie_app/static/js/main.c4fdd54e.js.map"
   },
   "entrypoints": [
-    "static/js/main.d52913f6.js"
+    "static/js/main.c4fdd54e.js"
   ]
 }
